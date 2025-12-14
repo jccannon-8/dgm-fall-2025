@@ -4,8 +4,8 @@ permalink: /logistics/
 title: Logistics
 ---
 
-* TOC
-{:toc}
+- TOC
+  {:toc}
 
 ---
 

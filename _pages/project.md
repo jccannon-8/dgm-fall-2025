@@ -29,7 +29,6 @@ Teams of 3-4 students are strongly encouraged. Once your team is formed, email t
 **Due:** Friday, October 17, 2025, at 11:59 PM via Canvas.
 
 - **Content**:
-
   - Project title and team member list.
   - Problem statement and motivation (½ page).
   - Literature review of at least four relevant papers (~1 page).
@@ -51,14 +50,12 @@ Teams of 3-4 students are strongly encouraged. Once your team is formed, email t
   This report ensures you’ve made **real progress** on your project. Basically, your job in the midway report is to convince us that you will finish your project by the final due date. It's ok if your plans have changed from the proposal, but you should know that by now. It's also okay if your plans have failed or run into challenges, but you should have some indication of that by now.
 
   By now, you should have:
-
   - Implemented an initial version of your model or experiments.
   - Run at least some tests—even if they didn’t work.
   - Identified challenges and next steps.
     This is not just a plan—it must reflect **actual work done** so far.
 
 - **Format & Length**:
-
   - **4 full pages**, excluding references. May **slightly spill onto a fifth page**, but be concise.
   - Use the **ICML template** again.
   - Put references must be on a separate page (**`\clearpage`** before).
@@ -108,7 +105,7 @@ Teams of 3-4 students are strongly encouraged. Once your team is formed, email t
   - 30%: Clarity and engagement of presentation.
   - 40%: Depth and quality of content.
   - 30%: Use of visuals and adherence to time limits (3-5 minutes so we can fit all groups in the lecture time).
-  
+
 ---
 
 ### **Final Report**
@@ -139,4 +136,3 @@ Teams of 3-4 students are strongly encouraged. Once your team is formed, email t
   - 30%: Experiments and results.
   - 10%: Analysis and discussion.
   - 20%: Writing quality.
-
